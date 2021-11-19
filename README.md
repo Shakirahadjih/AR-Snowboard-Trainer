@@ -21,14 +21,14 @@ Dit wordt allemaal verwerkt in een snowboard bril.
 
 # Prototype
 
-[![Prototype](http://img.youtube.com/vi/B715dWxu0xM/0.jpg)](https://www.youtube.com/watch?v=B715dWxu0xM "Prototype AR Cooking")
+[![Prototype](https://github.com/Shakirahadjih/AR-Snowboard-Trainer/blob/main/images/Schermafbeelding%202021-11-19%20om%2017.28.37.png")
 
 # Toekomstperspectief
 
-Het prototype geeft maar een klein deel van alle functies weer. In de toekomst zouden meer features toegevoegd moeten worden, zoals:
+Interessante vragen voor de uitbreiding van dit project? 
 
-- Ingrediënten herkennen en deze oplichtten (wanneer je een ingrediënt moet pakken)
-- Verschillende digitale timers zetten, bijvoorbeeld één op de pan en één op de oven
-- Status van het eten herkennen en aangeven of er bijvoorbeeld geroerd moeten worden of de temperatuur wat lager moet
-- Fouten van de gebruiker aangeven, bijvoorbeeld het verkeerde ingrediënt bij deze stap pakken, of je tomaat verkeerd snijden
+- Wat is mogelijk voor de batterijduur met koude buitentemperaturen?
+- Hoe zit het met het bereik in de bergen?
+- Kan AR in de witte sneeuw bepaalde dingen goed herkennen? Het uiteinde van een schans? Kan je hier herkenningspunten creeren waardoor de AR hierop een hologram kan zetten?
+- Hoe bepaal je de snelheid waarin het hologram vooruit beweegt?
 
