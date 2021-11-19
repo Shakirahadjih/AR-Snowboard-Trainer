@@ -21,7 +21,7 @@ Dit wordt allemaal verwerkt in een snowboard bril.
 
 # Prototype
 
-[![Prototype](https://github.com/Shakirahadjih/AR-Snowboard-Trainer/blob/main/images/Schermafbeelding%202021-11-19%20om%2017.28.37.png)
+![Prototype](https://github.com/Shakirahadjih/AR-Snowboard-Trainer/blob/main/images/Schermafbeelding%202021-11-19%20om%2017.28.37.png)
 
 # Toekomstperspectief
 
